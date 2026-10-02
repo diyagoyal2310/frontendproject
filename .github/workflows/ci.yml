@@ -3,7 +3,7 @@ name: frontendproject CI
 on:
   push:
     branches:
-      - frontendproject
+      - diya
 
   pull_request:
     branches:
